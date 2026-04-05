@@ -422,3 +422,5 @@ Burst 가 자주 발생하는 워크로드일 경우 CPU 오버커밋 방식이 
 
 ## 참고자료
 - 개발자를 위한 쉬운 쿠버네티스 : https://product.kyobobook.co.kr/detail/S000216089391
+- [Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
+
